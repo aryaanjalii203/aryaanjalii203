@@ -1,5 +1,11 @@
 <div align="center">
-  <img width="100%" src="./hero_banner_bc.svg" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
+  <img width="100%" src="./hero_banner_bc.png" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=680&lines=Hey+friend!+%E2%9C%A8+Welcome+to+my+digital+workspace;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
