@@ -1,37 +1,30 @@
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Anjali+Kumari;AI+%26+Machine+Learning+Engineer;LLM+Evaluation+%26+Deep+Learning;Computer+Vision+%26+NLP+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
 
-```text
-              .g@@@@Nw.               anjali@machine ----------------------------------------------------
-           .g@@@@@@@@@@Nw.            OS: .......................... Windows 11, Linux (Ubuntu)
-         .d@@@@@@@@@@@@@@@@b.         Uptime: ...................... 22 years, 3 months
-        .@@@@@@@@@@@@@@@@@@@@.        Host: ........................ Lovely Professional University
-       .@@@@@@`  ''''''  '@@@@@.      Role: ........................ AI / Machine Learning Engineer
-       d@@@@'  _        _ '@@@@b      Experience: .................. AI/LLM Specialist @ Handshake AI
-      .@@@@'  (o)  ..  (o) '@@@@.     IDE: ......................... VS Code, Jupyter Notebook, Colab
-      d@@@|       .  .      |@@@b     
-      @@@@|     .  *   .    |@@@@     Languages.Programming: ....... Python, C++, Java, Kotlin, SQL
-     .@@@@b.    `\____/'   .d@@@@.    Languages.Real: .............. English, Hindi
-   .d@@@@@@@b.    '--'   .d@@@@@@@b.  Frameworks: .................. PyTorch, TensorFlow, Keras, OpenCV
-  .d@@@@@@@@@@b.        .d@@@@@@@@@@b Libraries.Data: .............. Pandas, NumPy, Scikit-learn, NLTK
-  (@@@@@@@@@@@@@\      /@@@@@@@@@@@@) GenAI.Tech: .................. LangChain, Prompt Eng, LLM Evaluation
-  '@@@@@@@@@@@@@@|    |@@@@@@@@@@@@@' 
-   (@@@@@@@@@@@@/  /\  \@@@@@@@@@@@@) Hobbies.Tech: ................ Open Source, Hackathons, AI Agents
-   '@@@@@@@@@@@/  /||\  \@@@@@@@@@@@' Hobbies.Life: ................ Problem Solving, Exploring Tech
-  .d@@@@@@@@@@/  / || \  \@@@@@@@@@@b 
- .d@@@@@@@@@@/  /  ||  \  \@@@@@@@@@@ Contact ...........................................................
- @@@@@@@@@@@/  /   ||   \  \@@@@@@@@@ Email: ....................... aryaanjali203@gmail.com
- @@@@@@@@@@@  /    ||    \  @@@@@@@@@ LinkedIn: .................... linkedin.com/in/anjalikumari203
- @@@@@@@@@@@ /     ||     \ @@@@@@@@@ GitHub: ...................... github.com/aryaanjalii203
- @@@@@@@@@@@       ||       @@@@@@@@@ 
- @@@@@@@@@@@       ||       @@@@@@@@@ GitHub Stats ......................................................
- @@@@@@@@@@@       ||       @@@@@@@@@ Contributions: .............. 217+ total contributions
-                                      Focus: ....................... Computer Vision, Deep Learning & NLP
-```
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/aryaanjalii203.png" width="220" style="border-radius: 20px;" alt="Anjali Kumari" />
+    </td>
+    <td width="65%" valign="top">
+      <pre>
+<b>anjali@machine:~$ neofetch --profile</b>
+------------------------------------------------------
+<b>Role:</b>           AI / Machine Learning Engineer
+<b>Experience:</b>     AI/LLM Specialist @ Handshake AI
+<b>Core Stack:</b>     PyTorch, TensorFlow, Scikit-learn, OpenCV
+<b>GenAI & NLP:</b>    LangChain, Prompt Eng, LLM Evaluation
+<b>Data & Backend:</b> Pandas, NumPy, Streamlit, SQL
+<b>Languages:</b>      Python, C++, Java, Kotlin, SQL
+<b>Education:</b>      B.Tech CSE (2022 - 2026)
+<b>Contact:</b>        aryaanjali203@gmail.com
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -80,4 +73,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-```
