@@ -1,26 +1,28 @@
 <div align="center">
-  <img width="100%" src="./hero_banner.png" style="border-radius: 14px;" alt="Anjali Kumari — AI & Machine Learning Engineer" />
+  <img width="100%" src="./hero_unified.gif.png" style="border-radius: 14px;" alt="Anjali Kumari — AI & Machine Learning Engineer" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E11D48?style=for-the-badge&logo=linkedin&logoColor=F1F5F9&labelColor=0F172A" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-E11D48?style=for-the-badge&logo=leetcode&logoColor=F1F5F9&labelColor=0F172A" alt="LeetCode" /></a>
   &nbsp;
-  <a href="mailto:aryaanjali203@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aryaanjali203@gmail.com"><img src="https://img.shields.io/badge/GMAIL-MAIL-E11D48?style=for-the-badge&logo=gmail&logoColor=F1F5F9&labelColor=0F172A" alt="Email" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/anuarya___/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/anuarya___/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E11D48?style=for-the-badge&logo=instagram&logoColor=F1F5F9&labelColor=0F172A" alt="Instagram" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=E11D48&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%C2%B7+Creative+Technologist;Building+Vision+%26+Deep+Learning+Architectures;Evaluating+Frontier+LLM+Reasoning;Turning+Complex+Systems+Into+Working+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=500&size=20&pause=1200&color=E11D48&center=true&vCenter=true&width=750&lines=WHERE+INTELLIGENT+SYSTEMS+FEEL+ALIVE.;AI+%26+ML+Engineer+%C2%B7+Creative+Technologist;Building+Vision+%26+Deep+Learning+Architectures;Evaluating+Frontier+LLM+Reasoning;Turning+Complex+Systems+Into+Working+Software" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### ⛩️ 01 / ABOUT & TERMINAL
 
@@ -76,7 +78,9 @@ My core interests center on deep neural architectures, real-time vision pipeline
 </tr>
 </table>
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### 🌸 02 / WHAT I WORK WITH
 
@@ -113,11 +117,13 @@ My core interests center on deep neural architectures, real-time vision pipeline
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,java,kotlin,mysql,postgres,git,github,vscode,linux,androidstudio,postman&perline=8" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,java,kotlin,mysql,postgres,git,github,vscode,linux,androidstudio,postman&perline=8&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### 📁 03 / SELECTED PROJECTS
 
@@ -164,7 +170,9 @@ My core interests center on deep neural architectures, real-time vision pipeline
   <a href="https://github.com/aryaanjalii203?tab=repositories"><b>View all projects →</b></a>
 </div>
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### 💼 04 / EXPERIENCE & SIGNAL
 
@@ -192,7 +200,9 @@ Education:  B.Tech CSE (2022-2026)
 </tr>
 </table>
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### 🧠 05 / CURRENTLY EXPLORING
 
@@ -209,22 +219,26 @@ Education:  B.Tech CSE (2022-2026)
 
 > ⛰️ *"Don't just learn the technology. Build something with it."* &mdash; **Anjali Kumari**
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### 📊 06 / TELEMETRY & ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&hide_border=true&background=0F172A&ring=E11D48&fire=FBBF24&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=E11D48&sideLabels=94A3B8&dates=64748B&stroke=0F172A" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryaanjalii203&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryaanjalii203&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=E11D48&icon_color=FBBF24&text_color=F1F5F9&border_color=0F172A" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&hide_border=true&bg_color=0F172A&title_color=E11D48&text_color=F1F5F9&border_color=0F172A" alt="Top Languages" />
 </div>
 
----
+<div align="center">
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E11D48&height=4&animation=fadeIn" alt="" />
+</div>
 
 ### 📡 07 / SIGNAL & CONTACT
 
@@ -249,5 +263,5 @@ Education:  B.Tech CSE (2022-2026)
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230f172a&custom_color_2=%23e11d48&height=80&section=footer" alt="Footer Wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230f172a&custom_color_2=%23e11d48&height=100&section=footer&text=Thank%20You%20For%20Visiting&fontAlignY=75&fontColor=F1F5F9&fontSize=18&animation=fadeIn" alt="Footer Wave" />
 </div>
