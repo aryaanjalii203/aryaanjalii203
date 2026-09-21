@@ -4,72 +4,29 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/aryaanjalii203.png" width="220" style="border-radius: 20px;" alt="Anjali Kumari" />
-    </td>
-    <td width="65%" valign="top">
-      <pre>
-<b>anjali@machine:~$ neofetch --profile</b>
-------------------------------------------------------
-<b>Role:</b>           AI / Machine Learning Engineer
-<b>Experience:</b>     AI/LLM Specialist @ Handshake AI
-<b>Core Stack:</b>     PyTorch, TensorFlow, Scikit-learn, OpenCV
-<b>GenAI & NLP:</b>    LangChain, Prompt Eng, LLM Evaluation
-<b>Data & Backend:</b> Pandas, NumPy, Streamlit, SQL
-<b>Languages:</b>      Python, C++, Java, Kotlin, SQL
-<b>Education:</b>      B.Tech CSE (2022 - 2026)
-<b>Contact:</b>        aryaanjali203@gmail.com
-      </pre>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,java,kotlin,mysql,postgres,git,github,vscode,linux,androidstudio&perline=8" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryaanjalii203&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-- 🧠 **[Smart Waste Management System](https://github.com/aryaanjalii203)** — Automated classification using transfer learning with fine-tuned VGG16/ResNet CNN architectures.
-- 🎭 **[Facial Emotion Detection System](https://github.com/aryaanjalii203/Facial-Emotion-Detection)** — Real-time deep learning facial emotion recognition built on TensorFlow, Keras & OpenCV.
-- ⚡ **[AI Workflow Automation](https://github.com/aryaanjalii203)** — Full-stack automation system with Streamlit, Google Drive API, and IMAP/SMTP integrations.
-- 🎬 **[Movie Recommendation System](https://github.com/aryaanjalii203)** — Personalized collaborative filtering engine utilizing K-Nearest Neighbors (KNN).
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aryaanjali203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/aryaanjalii203" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+```text
+             r0%#%%0r               anjali@machine --------------------------------------------------
+           -#@@WW@@@Wm-             OS: .......................... Windows 11, Linux (Ubuntu)
+          -%@@W%mp#@W%0=            Uptime: ...................... 22 years, 3 months
+          %@%wr~=::+mW#m            Host: ........................ Lovely Professional University
+         w@Ww+++-:   0%mk           Role: ........................ AI / Machine Learning Engineer
+         WWWwkr=--   =%0p+          Experience: .................. AI/LLM Specialist @ Handshake AI
+        j@@#m#%m=:w0j'pWmw.         IDE: ......................... VS Code, Jupyter Notebook, Colab
+        #WWmp0#0+ p#~'=WW#~         
+       ~W@0=~jjr= '=:  %@Wm         Languages.Programming: ....... Python, C++, Java, Kotlin, SQL
+      'kW@0=++jj= .+' '%@@%'        Languages.Real: .............. English, Hindi
+    ..+0@@mrjkkwj-.~- -%W%%=        Frameworks: .................. PyTorch, TensorFlow, Keras, OpenCV
+   . :p@WWW0kwmwr=:+ .0WW#%w        Libraries.Data: .............. Pandas, NumPy, Scikit-learn, NLTK
+   . ~WWW@@@%pjr+:  +#@WW##0+       GenAI.Tech: .................. LangChain, Prompt Eng, LLM Evaluation
+   ..w@W@@WW@@0wr=+p@@WWWW%#w'      
+..   pWW@@W@WW%mpkp%WWWW@WW%#r      Hobbies.Tech: ................ Open Source, Hackathons, AI Agents
+ .=kmWWW@@WWWwpwkw0~0@WWWWWW%#~'    Hobbies.Life: ................ Problem Solving, Exploring Tech
+m%@@@@@@@@@W@r'kwmj p@W@WWW@%%%%0+  
+@@WWW@WW@@WWW= 'p: =p@WWW@WWW%#%@W  Contact .........................................................
+WW@@@WWW@@W@W-  +   m@W@WW@WWW%%WW  Email: ....................... aryaanjali203@gmail.com
+@@@@WWW@@@@W@~      #@W@WW@W@WW#WW  LinkedIn: .................... linkedin.com/in/anjalikumari203
+@@@@WWWW@@@W@p     -WW@@W@WWWW%0W@  GitHub: ...................... github.com/aryaanjalii203
+@@@@@WWWWW@W@%     k@W@WW@@WWW#0W@  
+@@@@@@WWWW@@W@=    #@W@WW@@@WW%m%@  GitHub Stats ....................................................
+                                    Contributions: .............. 217+ total contributions
+                                    Focus: ....................... Computer Vision, Deep Learning & NLP
