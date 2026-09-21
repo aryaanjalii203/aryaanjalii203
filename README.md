@@ -28,53 +28,9 @@
 
 <table width="100%">
 <tr>
-<td width="42%" valign="top">
-
-### ⛩️ ABOUT ME
-
-I'm **Anjali Kumari**, a Computer Science Engineer focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering**.
-
-I enjoy taking an idea, breaking it down into systems, writing clean code, debugging what breaks, and turning it into something robust and useful.
-
-My core interests center on deep neural architectures, real-time vision pipelines, and rigorous LLM output evaluation.
-
-</td>
-<td width="36%" valign="top">
-
-```text
-┌──────────────────────────────────────┐
-│              TERMINAL                │
-├──────────────────────────────────────┤
-│ > whoami                             │
-│ Anjali Kumari                        │
-│                                      │
-│ > focus                              │
-│ AI / ML • Computer Vision • LLMs     │
-│                                      │
-│ $ currently                          │
-│ → Building intelligent software      │
-│ → Evaluating LLM systems             │
-│ → Working with deep learning         │
-│                                      │
-│ $ mindset                            │
-│ Code → Build → Break → Ship          │
-└──────────────────────────────────────┘
-```
-
-</td>
-<td width="22%" valign="top">
-
-### ⛩️ MY JOURNEY
-
-- 🔴 `01 — IDEA`
-- 🔴 `02 — EXPLORE`
-- 🔴 `03 — BUILD`
-- 🔴 `04 — BREAK`
-- 🔴 `05 — DEBUG`
-- 🔴 `06 — IMPROVE`
-- 🚀 `07 — SHIP`
-
-</td>
+<td width="42%" valign="top"><img width="100%" src="./about_panel.png" alt="About Me" /></td>
+<td width="36%" valign="top"><img width="100%" src="./terminal_panel.png" alt="Terminal" /></td>
+<td width="22%" valign="top"><img width="100%" src="./journey_panel.png" alt="My Journey" /></td>
 </tr>
 </table>
 
@@ -88,26 +44,26 @@ My core interests center on deep neural architectures, real-time vision pipeline
 <tr>
 <td width="25%" valign="top">
 
-#### 1. Languages
-`Python` · `C++` · `Java` · `Kotlin` · `SQL`
+#### ◆ 1. LANGUAGES
+![](https://img.shields.io/badge/Python-0F172A?style=flat-square) ![](https://img.shields.io/badge/C++-0F172A?style=flat-square) ![](https://img.shields.io/badge/Java-0F172A?style=flat-square) ![](https://img.shields.io/badge/Kotlin-0F172A?style=flat-square) ![](https://img.shields.io/badge/SQL-0F172A?style=flat-square)
 
 </td>
 <td width="25%" valign="top">
 
-#### 2. AI / ML
-`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `OpenCV` · `CNNs` · `Transfer Learning`
+#### ◆ 2. AI / ML
+![](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square) ![](https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square) ![](https://img.shields.io/badge/Keras-0F172A?style=flat-square) ![](https://img.shields.io/badge/Scikit--learn-0F172A?style=flat-square) ![](https://img.shields.io/badge/OpenCV-0F172A?style=flat-square) ![](https://img.shields.io/badge/CNNs-0F172A?style=flat-square) ![](https://img.shields.io/badge/Transfer_Learning-0F172A?style=flat-square)
 
 </td>
 <td width="25%" valign="top">
 
-#### 3. LLMs / GenAI
-`LLM Evaluation` · `Prompt Engineering` · `RAG` · `LangChain` · `Similarity Matching`
+#### ◆ 3. LLMs / GenAI
+![](https://img.shields.io/badge/LLM_Evaluation-0F172A?style=flat-square) ![](https://img.shields.io/badge/Prompt_Engineering-0F172A?style=flat-square) ![](https://img.shields.io/badge/RAG-0F172A?style=flat-square) ![](https://img.shields.io/badge/LangChain-0F172A?style=flat-square) ![](https://img.shields.io/badge/Similarity_Matching-0F172A?style=flat-square)
 
 </td>
 <td width="25%" valign="top">
 
-#### 4. Data & Tools
-`Pandas` · `NumPy` · `Streamlit` · `MySQL` · `Git` · `GitHub` · `Linux` · `REST APIs`
+#### ◆ 4. DATA & TOOLS
+![](https://img.shields.io/badge/Pandas-0F172A?style=flat-square) ![](https://img.shields.io/badge/NumPy-0F172A?style=flat-square) ![](https://img.shields.io/badge/Streamlit-0F172A?style=flat-square) ![](https://img.shields.io/badge/MySQL-0F172A?style=flat-square) ![](https://img.shields.io/badge/Git-0F172A?style=flat-square) ![](https://img.shields.io/badge/GitHub-0F172A?style=flat-square) ![](https://img.shields.io/badge/Linux-0F172A?style=flat-square) ![](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square)
 
 </td>
 </tr>
@@ -134,7 +90,7 @@ My core interests center on deep neural architectures, real-time vision pipeline
 ### 🧠 [01 — Facial Emotion Detection](https://github.com/aryaanjalii203/Facial-Emotion-Detection)
 > CNN-based facial emotion recognition pipeline trained on FER-2013 with OpenCV real-time boundary tracking.
 
-`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+![](https://img.shields.io/badge/Python-0F172A?style=flat-square) ![](https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square) ![](https://img.shields.io/badge/Keras-0F172A?style=flat-square) ![](https://img.shields.io/badge/OpenCV-0F172A?style=flat-square) ![](https://img.shields.io/badge/CNN-0F172A?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +98,7 @@ My core interests center on deep neural architectures, real-time vision pipeline
 ### 🤖 [02 — Chatbot](https://github.com/aryaanjalii203/Chatbot)
 > An intent-based conversational agent designed to parse user queries, recognize context, and respond intelligently.
 
-`Python` `NLP` `NLTK` `Machine Learning`
+![](https://img.shields.io/badge/Python-0F172A?style=flat-square) ![](https://img.shields.io/badge/NLP-0F172A?style=flat-square) ![](https://img.shields.io/badge/NLTK-0F172A?style=flat-square) ![](https://img.shields.io/badge/Machine_Learning-0F172A?style=flat-square)
 
 </td>
 </tr>
@@ -152,7 +108,7 @@ My core interests center on deep neural architectures, real-time vision pipeline
 ### 🖼️ [03 — Image Classification](https://github.com/aryaanjalii203/Image_Classification)
 > Fashion MNIST image classification using Histogram of Oriented Gradients (HOG) feature extraction and SVM.
 
-`Python` `HOG` `SVM` `Scikit-learn` `OpenCV`
+![](https://img.shields.io/badge/Python-0F172A?style=flat-square) ![](https://img.shields.io/badge/HOG-0F172A?style=flat-square) ![](https://img.shields.io/badge/SVM-0F172A?style=flat-square) ![](https://img.shields.io/badge/Scikit--learn-0F172A?style=flat-square) ![](https://img.shields.io/badge/OpenCV-0F172A?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -160,7 +116,7 @@ My core interests center on deep neural architectures, real-time vision pipeline
 ### ⚡ [04 — AI Automation & RecSys](https://github.com/aryaanjalii203)
 > Full-stack Python automation pipelines with Streamlit, Google Drive sync, and collaborative recommendation systems.
 
-`Python` `Streamlit` `Scikit-Learn` `Google APIs`
+![](https://img.shields.io/badge/Python-0F172A?style=flat-square) ![](https://img.shields.io/badge/Streamlit-0F172A?style=flat-square) ![](https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square) ![](https://img.shields.io/badge/Google_APIs-0F172A?style=flat-square)
 
 </td>
 </tr>
@@ -186,17 +142,7 @@ My core interests center on deep neural architectures, real-time vision pipeline
 - Identifying edge cases, reasoning failures, and hallucinations across complex multi-step coding prompts.
 
 </td>
-<td width="32%" valign="top">
-
-```yaml
-Status:     ● System Online
-Role:       AI / LLM Specialist
-Focus:      Reasoning & Code Eval
-Term:       Active
-Education:  B.Tech CSE (2022-2026)
-```
-
-</td>
+<td width="32%" valign="top"><img width="100%" src="./status_panel.png" alt="Status" /></td>
 </tr>
 </table>
 
@@ -207,12 +153,12 @@ Education:  B.Tech CSE (2022-2026)
 ### 🧠 05 / CURRENTLY EXPLORING
 
 <div align="center">
-  <code>Deep Learning</code> &nbsp;·&nbsp;
-  <code>Computer Vision</code> &nbsp;·&nbsp;
-  <code>LLMs &amp; GenAI</code> &nbsp;·&nbsp;
-  <code>Autonomous AI Agents</code> &nbsp;·&nbsp;
-  <code>Software Engineering</code> &nbsp;·&nbsp;
-  <code>Developer Tools</code>
+  <img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs_%26_GenAI-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Autonomous_AI_Agents-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software_Engineering-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Developer_Tools-0F172A?style=flat-square" />
 </div>
 
 <br/>
@@ -242,18 +188,9 @@ Education:  B.Tech CSE (2022-2026)
 
 ### 📡 07 / SIGNAL & CONTACT
 
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│ SIGNAL / CONTACT                                                         │
-│                                                                          │
-│ Open to AI / ML Engineer & Software Development Opportunities (2026)     │
-│                                                                          │
-│ Email: aryaanjali203@gmail.com                                           │
-│ LinkedIn: linkedin.com/in/anjalikumari203                                │
-│ LeetCode: leetcode.com/u/cFrtWpqEQT                                      │
-│ Instagram: @anuarya___                                                   │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img width="100%" src="./contact_panel.png" alt="Signal / Contact" />
+</div>
 
 <br/>
 
