@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank">
-    <img width="100%" src="./hero_unified.gif" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
+    <img width="100%" src="./hero_unified.gif.png" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
   </a>
 </div>
 
