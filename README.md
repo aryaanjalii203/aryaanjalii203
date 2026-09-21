@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+%F0%9F%99%8F%2C+I'm+Anjali+Kumari;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=Hey+friend!+%E2%9C%A8+Welcome+to+my+little+corner+of+GitHub;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
