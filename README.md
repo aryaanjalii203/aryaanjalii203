@@ -1,32 +1,179 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Anjali+Kumari;AI+%26+Machine+Learning+Engineer;LLM+Evaluation+%26+Deep+Learning;Computer+Vision+%26+NLP+Developer" alt="Typing SVG" />
+
+# Hi, I'm Anjali Kumari 👋
+
+### Software Developer · AI/ML · Builder
+
+I build software, experiment with AI, and turn ideas into working products.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaanjalii203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
 </div>
 
-<br/>
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science developer with a strong interest in **Artificial Intelligence, Machine Learning and Software Development**.
+
+I enjoy taking an idea from:
+
+`Concept → Code → Experiment → Product`
+
+My work ranges from machine learning and computer vision to full-stack applications, automation and practical developer tools.
+
+- 🔭 Building: **AI/ML & software projects**
+- 🧠 Exploring: **Machine Learning, Deep Learning & intelligent applications**
+- 💻 Languages: **Python, C++, Java, Kotlin, SQL**
+- 🛠️ Interested in: **Software Engineering · AI/ML · Computer Vision**
+- 🚀 Philosophy: **Build it. Break it. Understand it. Improve it.**
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / Machine Learning
+
+Machine learning systems that solve practical problems.
+
+`Python` `TensorFlow` `Keras` `Scikit-learn`
+
+</td>
+
+<td width="50%">
+
+### 💻 Software
+
+Applications and tools focused on usability and real-world problems.
+
+`Java` `C++` `Kotlin` `SQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ Computer Vision
+
+Working with images, classification and visual recognition.
+
+`OpenCV` `CNN` `HOG` `SVM`
+
+</td>
+
+<td width="50%">
+
+### 📊 Data
+
+Turning raw data into useful insights and visualizations.
+
+`NumPy` `Pandas` `Matplotlib` `Power BI`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Facial Emotion Recognition
+
+A deep-learning based facial emotion recognition system trained on the FER-2013 dataset.
+
+**Tech:** Python · TensorFlow · Keras · OpenCV · CNN
+
+---
+
+### 🎬 Movie Recommendation System
+
+A machine-learning recommendation system that recommends movies based on similarity between movies.
+
+**Tech:** Python · KNN · Scikit-learn
+
+---
+
+### 💬 Q/A Chatbot
+
+An intent-based chatbot capable of understanding user queries and mapping them to appropriate responses.
+
+**Tech:** Python · NLP · Machine Learning
+
+---
+
+### 📊 Data Analytics Dashboard
+
+An interactive dashboard designed to transform business data into meaningful visual insights.
+
+**Tech:** Power BI · DAX · Data Analysis
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Data & Tools
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryaanjalii203&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+---
+
+## 🧩 How I Like to Work
 
 ```text
-             r0%#%%0r               anjali@machine --------------------------------------------------
-           -#@@WW@@@Wm-             OS: .......................... Windows 11, Linux (Ubuntu)
-          -%@@W%mp#@W%0=            Uptime: ...................... 22 years, 3 months
-          %@%wr~=::+mW#m            Host: ........................ Lovely Professional University
-         w@Ww+++-:   0%mk           Role: ........................ AI / Machine Learning Engineer
-         WWWwkr=--   =%0p+          Experience: .................. AI/LLM Specialist @ Handshake AI
-        j@@#m#%m=:w0j'pWmw.         IDE: ......................... VS Code, Jupyter Notebook, Colab
-        #WWmp0#0+ p#~'=WW#~         
-       ~W@0=~jjr= '=:  %@Wm         Languages.Programming: ....... Python, C++, Java, Kotlin, SQL
-      'kW@0=++jj= .+' '%@@%'        Languages.Real: .............. English, Hindi
-    ..+0@@mrjkkwj-.~- -%W%%=        Frameworks: .................. PyTorch, TensorFlow, Keras, OpenCV
-   . :p@WWW0kwmwr=:+ .0WW#%w        Libraries.Data: .............. Pandas, NumPy, Scikit-learn, NLTK
-   . ~WWW@@@%pjr+:  +#@WW##0+       GenAI.Tech: .................. LangChain, Prompt Eng, LLM Evaluation
-   ..w@W@@WW@@0wr=+p@@WWWW%#w'      
-..   pWW@@W@WW%mpkp%WWWW@WW%#r      Hobbies.Tech: ................ Open Source, Hackathons, AI Agents
- .=kmWWW@@WWWwpwkw0~0@WWWWWW%#~'    Hobbies.Life: ................ Problem Solving, Exploring Tech
-m%@@@@@@@@@W@r'kwmj p@W@WWW@%%%%0+  
-@@WWW@WW@@WWW= 'p: =p@WWW@WWW%#%@W  Contact .........................................................
-WW@@@WWW@@W@W-  +   m@W@WW@WWW%%WW  Email: ....................... aryaanjali203@gmail.com
-@@@@WWW@@@@W@~      #@W@WW@W@WW#WW  LinkedIn: .................... linkedin.com/in/anjalikumari203
-@@@@WWWW@@@W@p     -WW@@W@WWWW%0W@  GitHub: ...................... github.com/aryaanjalii203
-@@@@@WWWWW@W@%     k@W@WW@@WWW#0W@  
-@@@@@@WWWW@@W@=    #@W@WW@@@WW%m%@  GitHub Stats ....................................................
-                                    Contributions: .............. 217+ total contributions
-                                    Focus: ....................... Computer Vision, Deep Learning & NLP
+Understand the problem
+        ↓
+Break it into smaller pieces
+        ↓
+Build a simple version
+        ↓
+Test it
+        ↓
+Find what's broken
+        ↓
+Improve it
+        ↓
+Ship 🚀
