@@ -1,205 +1,121 @@
-Yes 😭 Let's make this **very simple**.
+Here is the updated markdown code with your **LeetCode**, **Instagram (`@anuarya___`)**, **Email (`aryaanjali203@gmail.com`)**, and **LinkedIn** all integrated:
 
-You only need to do **this one thing**:
-
-1. Open your GitHub profile repository — the repository with the **same name as your GitHub username**.
-2. Open `README.md`.
-3. Delete everything currently inside it.
-4. Copy **the entire single code below**.
-5. Paste it into `README.md`.
-6. Click **Commit changes**.
-
-That's it. Don't copy anything from my previous messages.
-
-````markdown
+```markdown
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230ea5e9&custom_color_2=%236366f1&height=190&section=header&text=Anjali%20Kumari&fontSize=42&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=60&descAlign=50&fontColor=ffffff" />
+</div>
 
-# ANJALI KUMARI
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+%F0%9F%99%8F%2C+I'm+Anjali+Kumari;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-### `SOFTWARE DEVELOPER • AI/ML • BUILDER`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=64748B&center=true&vCenter=true&width=700&lines=I+build+software+from+ideas.;I+experiment+with+AI+%26+Machine+Learning.;I+learn+by+building+real+things.;Code+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaanjalii203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/anuarya___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:aryaanjali203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/aryaanjalii203">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aryaanjalii203&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   $ whoami                                                  │
-│                                                             │
-│   Anjali Kumari                                             │
-│   Computer Science • AI/ML • Software Development           │
-│                                                             │
-│   I like turning ideas into working software.               │
-│                                                             │
-│   $ currently                                                │
-│                                                             │
-│   → Building software                                      │
-│   → Exploring AI & Machine Learning                         │
-│   → Learning by creating real projects                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-````
+### 👩‍💻 About Me
 
-# `01` — ABOUT ME
-
-I'm a Computer Science developer interested in **Artificial Intelligence, Machine Learning, Computer Vision and Software Engineering**.
-
-I enjoy taking an idea, breaking it down, writing the code, debugging what breaks, and turning it into something useful.
-
-```text
-IDEA
- ↓
-EXPLORE
- ↓
-BUILD
- ↓
-BREAK
- ↓
-DEBUG
- ↓
-IMPROVE
- ↓
-SHIP 🚀
+```yaml
+Name:             Anjali Kumari
+Current Role:     AI / LLM Specialist (Contract) @ Handshake AI
+Education:        B.Tech in Computer Science & Engineering (2022 - 2026)
+University:       Lovely Professional University, India
+Core Focus:       Deep Learning, Computer Vision, LLM Evaluation & NLP
+Email:            aryaanjali203@gmail.com
+LeetCode:         leetcode.com/u/cFrtWpqEQT/
+Instagram:        @anuarya___
 ```
+
+- 💼 **Experience**: Evaluating LLM outputs on complex coding & reasoning tasks at **Handshake AI**, and delivered production AI automation systems as a **Freelance AI Developer**.
+- 🔭 **Current Work**: Training deep learning architectures (**PyTorch / TensorFlow**), fine-tuning CNNs (**VGG16 / ResNet**), and building robust automated data pipelines.
+- 🌱 **Learning & Exploring**: Autonomous AI Agents, RAG Pipelines, and Multimodal Vision-Language Models.
+- 💬 **Ask me about**: Machine Learning workflows, Computer Vision (OpenCV), Prompt Engineering & Python automation.
 
 ---
 
-# `02` — WHAT I WORK WITH
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,java,kotlin,mysql,postgres,git,github,vscode,linux,androidstudio,postman&perline=8" />
+  </a>
+</div>
 
-### LANGUAGES
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin&theme=dark"/>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| 🤖 **AI & Deep Learning** | PyTorch, TensorFlow, Keras, OpenCV, CNNs, Transfer Learning, Scikit-learn |
+| 🧠 **LLMs & GenAI** | Prompt Engineering, LLM Output Evaluation, LangChain, RAG, Similarity Search |
+| 💻 **Languages** | Python, C++, Java, Kotlin, SQL |
+| 📊 **Data & Deployment** | Pandas, NumPy, Streamlit, ETL Pipelines, REST APIs, MySQL, Git, Linux |
 
-`SQL`
+---
 
-### AI / MACHINE LEARNING
+### 📊 GitHub Activity & Statistics
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&theme=radical&hide_border=true" />
+</div>
 
-`Keras` `Scikit-learn` `NumPy` `Pandas` `Matplotlib`
+<br/>
 
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker&theme=dark"/>
-
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryaanjalii203&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-# `03` — SELECTED PROJECTS
+### 🚀 Featured Projects
 
-### 🧠 Facial Emotion Detection
-
-Deep-learning based facial emotion recognition using the FER-2013 dataset.
-
-**Python • TensorFlow • Keras • OpenCV • CNN**
-
-→ [View Repository](https://github.com/aryaanjalii203/Facial-Emotion-Detection)
-
----
-
-### 💬 Chatbot
-
-An intent-based chatbot built to understand user queries and return appropriate responses.
-
-**Python • NLP • Machine Learning**
-
-→ [View Repository](https://github.com/aryaanjalii203/Chatbot)
-
----
-
-### 👕 Image Classification
-
-Machine-learning based image classification using feature extraction and SVM.
-
-**Python • HOG • SVM • Scikit-learn**
-
-→ [View Repository](https://github.com/aryaanjalii203/Image_Classification)
-
----
-
-### 🤖 Machine Learning Experiments
-
-A collection of machine-learning implementations and experiments.
-
-**Python • Jupyter • Scikit-learn**
-
-→ [View Repository](https://github.com/aryaanjalii203/ML-Codes)
-
----
-
-# `04` — CURRENTLY EXPLORING
-
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Computer Vision
-Software Engineering
-Developer Tools
-Building practical products
-```
-
----
-
-# `05` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryaanjalii203&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&hide_border=true&theme=transparent" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
----
-
-# `06` — MY APPROACH
-
-> **Don't just learn the technology. Build something with it.**
-
-I believe the best way to understand something is to actually use it — even if the first version is messy.
-
-Every project teaches me something new.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/aryaanjalii203">Smart Waste Management</a></h3>
+      <p>Automated waste classification pipeline using transfer learning with pre-trained VGG16/ResNet CNNs, featuring custom image augmentation and real-time inference.</p>
+      <p><b>Stack:</b> <code>PyTorch</code> <code>CNN</code> <code>Transfer Learning</code> <code>OpenCV</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎭 <a href="https://github.com/aryaanjalii203/Facial-Emotion-Detection">Facial Emotion Detection</a></h3>
+      <p>Deep learning facial emotion recognition system trained on FER-2013 dataset with real-time OpenCV facial boundary tracking and high classification accuracy.</p>
+      <p><b>Stack:</b> <code>TensorFlow</code> <code>Keras</code> <code>OpenCV</code> <code>Python</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/aryaanjalii203">AI Workflow Automation</a></h3>
+      <p>Full-stack automation system featuring a Streamlit dashboard, automated Google Drive/Sheets sync, and intelligent Gmail IMAP/SMTP automated response bots.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>Streamlit</code> <code>Google APIs</code> <code>IMAP/SMTP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/aryaanjalii203">Movie Recommendation Engine</a></h3>
+      <p>Personalized recommendation system utilizing K-Nearest Neighbors (KNN) collaborative filtering over user-item interaction matrices.</p>
+      <p><b>Stack:</b> <code>Scikit-Learn</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-
-## `BUILD • EXPERIMENT • LEARN • REPEAT`
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/Explore_My_Code-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/aryaanjalii203)
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=aryaanjalii203&style=flat-square&color=64748b&label=PROFILE+VIEWS"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%236366f1&custom_color_2=%230ea5e9&height=100&section=footer" />
 </div>
 ```
-
-**That's the only code you need right now.**
-
-⚠️ There is just **one small thing** to replace:
-
-```text
-YOUR_LINKEDIN_URL
-```
-
-with your LinkedIn profile link.
-
