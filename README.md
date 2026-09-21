@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./hero_unified.gif.png" style="border-radius: 14px;" alt="Anjali Kumari — AI & Machine Learning Engineer" />
+  <img width="100%" src="./hero_banner.png" style="border-radius: 14px;" alt="Anjali Kumari — AI & Machine Learning Engineer" />
 </div>
 
 <br/>
