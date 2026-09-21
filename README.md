@@ -1,27 +1,6 @@
 <div align="center">
-  <img width="100%" src="./hero_banner_bc.png" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=680&lines=Hey+friend!+%E2%9C%A8+Welcome+to+my+digital+workspace;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:aryaanjali203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/anuarya___/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img width="100%" src="./hero_unified.gif" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
   </a>
 </div>
 
