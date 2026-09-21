@@ -1,14 +1,4 @@
-### Follow these 3 simple steps:
 
-1. In your GitHub editor tab, click inside the box, press **`Ctrl + A`** to select all existing text, and press **`Backspace` / `Delete`** to clear everything out.
-2. Click the **Copy** button on the code box below to copy the markdown.
-3. Paste (**`Ctrl + V`**) it into your empty GitHub editor and click the green **Commit changes...** button at the top right!
-
----
-
-### Copy EVERYTHING in the box below:
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Anjali+Kumari;AI+%26+Machine+Learning+Engineer;LLM+Evaluation+%26+Deep+Learning;Computer+Vision+%26+NLP+Developer" alt="Typing SVG" />
 </div>
