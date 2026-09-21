@@ -1,39 +1,28 @@
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-<p><b><font color="#e11d48">◆</font> ANJALI KUMARI</b> &nbsp;·&nbsp; <font color="#64748b">AI & MACHINE LEARNING ENGINEER · CREATIVE TECHNOLOGIST</font></p>
-
-# WHERE INTELLIGENT<br/>SYSTEMS FEEL ALIVE.
-
-> *Building deep learning architectures, evaluating frontier LLM reasoning, and crafting automated data pipelines where engineering meets intelligent craft.*
-
-| METRIC | STATUS & DETAILS |
-| :--- | :--- |
-| **AVAILABLE FOR** | 2026 AI / ML ROLES |
-| **BASE** | INDIA · REMOTE / HYBRID |
-| **STATUS** | 🟢 SYSTEM ONLINE |
-| **EXPERIENCE** | AI / LLM SPECIALIST @ HANDSHAKE AI |
-| **EDUCATION** | B.TECH CSE (2022–2026) · LOVELY PROFESSIONAL UNIVERSITY |
+<div align="center">
+  <img width="100%" src="./hero_banner.png" style="border-radius: 14px;" alt="Anjali Kumari Hero Banner" />
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:aryaanjali203@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.instagram.com/anuarya___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=680&lines=Hey+friend!+%E2%9C%A8+Welcome+to+my+digital+workspace;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./profile.jpg" width="240" style="border-radius: 16px;" alt="Anjali Kumari" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=E11D48&center=true&vCenter=true&width=680&lines=Hey+friend!+%E2%9C%A8+Welcome+to+my+digital+workspace;AI+%2F+Machine+Learning+Engineer;Evaluating+LLMs+%40+Handshake+AI;Building+Deep+Learning+%26+Computer+Vision+Models;Let's+build+intelligent+systems+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:aryaanjali203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/anuarya___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 ---
