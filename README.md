@@ -1,645 +1,253 @@
 <div align="center">
-
-<img width="100%" src="./hero_unified.gif.png" alt="Anjali Kumari — AI & Machine Learning Engineer" />
-
+  <img width="100%" src="./hero_banner.png" style="border-radius: 14px;" alt="Anjali Kumari — AI & Machine Learning Engineer" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/anjalikumari203/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/cFrtWpqEQT/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="mailto:aryaanjali203@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/anuarya___/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/anjalikumari203/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/cFrtWpqEQT/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  &nbsp;
+  <a href="mailto:aryaanjali203@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/anuarya___/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=E11D48&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%C2%B7+Creative+Technologist;Building+Vision+%26+Deep+Learning+Architectures;Evaluating+Frontier+LLM+Reasoning;Turning+Complex+Systems+Into+Working+Software" alt="Typing SVG" />
+</div>
+
 ---
 
-# ⛩️ 01 / ABOUT & TERMINAL
+### ⛩️ 01 / ABOUT & TERMINAL
 
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-### ⛩️ ANJALI KUMARI
-
-**AI & MACHINE LEARNING ENGINEER**
-
-Computer Science developer focused on:
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLM Evaluation
-- Software Engineering
-
-I like taking a problem from **idea → architecture → code → testing → working system**.
-
-My work combines machine learning experimentation with practical software development and automation.
-
-</td>
-
-<td width="50%" valign="top">
-
-```text
-┌──────────────────────────────────────────────┐
-│ TERMINAL                                     │
-├──────────────────────────────────────────────┤
-│                                              │
-│ > whoami                                     │
-│ Anjali Kumari                                │
-│                                              │
-│ > role                                       │
-│ AI / Machine Learning Engineer               │
-│                                              │
-│ > focus                                      │
-│ Artificial Intelligence                      │
-│ Machine Learning                             │
-│ Computer Vision                              │
-│ LLM Evaluation                               │
-│ Software Engineering                         │
-│                                              │
-│ > philosophy                                 │
-│ Build → Break → Understand → Improve → Ship  │
-│                                              │
-└──────────────────────────────────────────────┘
----
-
-# ⛩️ 01 / ABOUT & TERMINAL
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
 ### ⛩️ ABOUT ME
 
-I'm **Anjali Kumari**, a Computer Science Engineer focused on **Artificial Intelligence, Machine Learning, Computer Vision, LLMs, and Software Engineering**.
+I'm **Anjali Kumari**, a Computer Science Engineer focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Software Engineering**.
 
-I enjoy taking complex ideas, breaking them down into systems, writing the code, debugging what breaks, and turning them into useful software.
+I enjoy taking an idea, breaking it down into systems, writing clean code, debugging what breaks, and turning it into something robust and useful.
 
-My work sits at the intersection of:
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLM Evaluation
-- Python Automation
-- Software Engineering
+My core interests center on deep neural architectures, real-time vision pipelines, and rigorous LLM output evaluation.
 
 </td>
-
-<td width="50%" valign="top">
+<td width="36%" valign="top">
 
 ```text
 ┌──────────────────────────────────────┐
 │              TERMINAL                │
 ├──────────────────────────────────────┤
-│                                      │
 │ > whoami                             │
 │ Anjali Kumari                        │
 │                                      │
-│ Computer Science                     │
-│ AI / ML                              │
-│ Software Engineering                 │
+│ > focus                              │
+│ AI / ML • Computer Vision • LLMs     │
 │                                      │
 │ $ currently                          │
-│ → Building software                  │
-│ → Exploring AI & ML                  │
-│ → Evaluating LLM systems              │
-│ → Creating real projects             │
+│ → Building intelligent software      │
+│ → Evaluating LLM systems             │
+│ → Working with deep learning         │
 │                                      │
 │ $ mindset                            │
-│                                      │
-│ Code → Build → Break                 │
-│ → Improve → Ship                     │
-│                                      │
+│ Code → Build → Break → Ship          │
 └──────────────────────────────────────┘
-````
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧭 02 / MY JOURNEY
-
-<table width="100%">
-<tr>
-
-<td width="25%" align="center">
-
-### 2022
-
-**START**
-
-B.Tech CSE
-
-</td>
-
-<td width="25%" align="center">
-
-### 2023
-
-**BUILD**
-
-Programming
-Data Structures
-Software Development
-
-</td>
-
-<td width="25%" align="center">
-
-### 2024
-
-**EXPLORE**
-
-Machine Learning
-Deep Learning
-Computer Vision
-
-</td>
-
-<td width="25%" align="center">
-
-### 2025 → 2026
-
-**SPECIALIZE**
-
-AI / ML
-LLMs
-AI Evaluation
-Automation
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 03 / WHAT I WORK WITH
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,cpp,java,kotlin,mysql,postgres,git,github,vscode,linux,androidstudio,postman&perline=9" />
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<th width="30%">DOMAIN</th>
-<th>TOOLS / TECHNOLOGIES</th>
-</tr>
-
-<tr>
-<td><b>🤖 Artificial Intelligence</b></td>
-<td>Machine Learning, Deep Learning, CNNs, Transfer Learning, Computer Vision</td>
-</tr>
-
-<tr>
-<td><b>🧠 LLM & GenAI</b></td>
-<td>Prompt Engineering, LLM Evaluation, RAG, Similarity Matching, LangChain</td>
-</tr>
-
-<tr>
-<td><b>👁️ Computer Vision</b></td>
-<td>OpenCV, Image Processing, CNNs, FER-2013, VGG16, ResNet</td>
-</tr>
-
-<tr>
-<td><b>💻 Programming</b></td>
-<td>Python, C++, Java, Kotlin, SQL</td>
-</tr>
-
-<tr>
-<td><b>📊 Data</b></td>
-<td>NumPy, Pandas, Matplotlib, Scikit-learn, Data Processing</td>
-</tr>
-
-<tr>
-<td><b>⚙️ Engineering</b></td>
-<td>Git, GitHub, Linux, REST APIs, Streamlit, Automation</td>
-</tr>
-
-</table>
-
----
-
-# 🛰️ 04 / CURRENTLY EXPLORING
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-### 🧠 AI SYSTEMS
-
-Deep Learning
-LLMs
-RAG
-AI Agents
-
-</td>
-
-<td width="33%" align="center">
-
-### 👁️ VISION
-
-Computer Vision
-Image Classification
-CNN Architectures
-Object Recognition
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ AUTOMATION
-
-Python Automation
-Data Pipelines
-APIs
-Intelligent Workflows
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏯 05 / EXPERIENCE
-
-<table width="100%">
-<tr>
-
-<td width="18%" valign="top">
-
-### 01
-
-**HANDSHAKE AI**
-
-</td>
-
-<td valign="top">
-
-### AI / LLM EVALUATION
-
-Evaluating AI-generated outputs across coding and reasoning tasks, analyzing model behavior, identifying quality issues, and contributing to AI evaluation workflows.
-
-**Focus**
-
-`LLM Evaluation` `Reasoning` `Coding` `AI Quality`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="18%" valign="top">
-
-### 02
-
-**FREELANCE**
-
-</td>
-
-<td valign="top">
-
-### AI & SOFTWARE DEVELOPMENT
-
-Building software solutions, automation workflows, dashboards, and AI-powered applications for practical use cases.
-
-**Focus**
-
-`Python` `AI/ML` `Automation` `APIs`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧬 06 / SELECTED PROJECTS
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## 01 · 🧠 SMART WASTE MANAGEMENT
-
-An automated waste classification system using deep learning and transfer learning.
-
-**Architecture**
-
-`VGG16` `ResNet` `CNN` `OpenCV`
-
-**Highlights**
-
-* Image classification
-* Custom image augmentation
-* Transfer learning
-* Real-time inference
-
-</td>
-
-<td width="50%" valign="top">
-
-## 02 · 🎭 FACIAL EMOTION DETECTION
-
-A computer vision pipeline for detecting facial emotions from images and video.
-
-**Architecture**
-
-`TensorFlow` `Keras` `OpenCV`
-
-**Highlights**
-
-* FER-2013 dataset
-* CNN architecture
-* Face detection
-* Emotion classification
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 03 · ⚡ AI AUTOMATION WORKFLOW
-
-An automation system connecting data sources, APIs, dashboards, and intelligent workflows.
-
-**Architecture**
-
-`Python` `Streamlit` `APIs`
-
-**Highlights**
-
-* Automated workflows
-* Data processing
-* API integration
-* Dashboard interface
-
-</td>
-
-<td width="50%" valign="top">
-
-## 04 · 🎬 RECOMMENDATION SYSTEM
-
-A recommendation engine using similarity-based collaborative filtering.
-
-**Architecture**
-
-`Scikit-learn` `Pandas` `NumPy`
-
-**Highlights**
-
-* KNN
-* User-item matrices
-* Similarity matching
-* Recommendation logic
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔬 07 / AI LAB
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                         AI LAB                              │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  INPUT                                                      │
-│    │                                                        │
-│    ▼                                                        │
-│  DATA ───────────────► PREPROCESSING                        │
-│                              │                              │
-│                              ▼                              │
-│                       MODEL / LLM                           │
-│                              │                              │
-│              ┌───────────────┴───────────────┐              │
-│              ▼                               ▼              │
-│        EVALUATION                        INFERENCE          │
-│              │                               │              │
-│              └───────────────┬───────────────┘              │
-│                              ▼                              │
-│                         INSIGHT                             │
-│                              │                              │
-│                              ▼                              │
-│                         SOFTWARE                            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
 ```
 
----
+</td>
+<td width="22%" valign="top">
 
-# 🧩 08 / ENGINEERING PHILOSOPHY
+### ⛩️ MY JOURNEY
 
-<table width="100%">
-<tr>
-
-<td align="center">
-
-### 01
-
-**UNDERSTAND**
-
-Start with the problem.
+- 🔴 `01 — IDEA`
+- 🔴 `02 — EXPLORE`
+- 🔴 `03 — BUILD`
+- 🔴 `04 — BREAK`
+- 🔴 `05 — DEBUG`
+- 🔴 `06 — IMPROVE`
+- 🚀 `07 — SHIP`
 
 </td>
-
-<td align="center">
-
-### 02
-
-**DESIGN**
-
-Break the problem into systems.
-
-</td>
-
-<td align="center">
-
-### 03
-
-**BUILD**
-
-Write simple, testable code.
-
-</td>
-
-<td align="center">
-
-### 04
-
-**BREAK**
-
-Find what fails.
-
-</td>
-
-<td align="center">
-
-### 05
-
-**IMPROVE**
-
-Iterate until it works.
-
-</td>
-
-<td align="center">
-
-### 06
-
-**SHIP**
-
-Turn the solution into software.
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 📡 09 / SYSTEM STATUS
+### 🌸 02 / WHAT I WORK WITH
 
-```text
-┌───────────────────────────────────────────────┐
-│              ANJALI.OS                       │
-├───────────────────────────────────────────────┤
-│                                               │
-│ ● AI / ML ENGINEER                 ONLINE     │
-│ ● LLM EVALUATION                  ACTIVE     │
-│ ● COMPUTER VISION                 ACTIVE     │
-│ ● PYTHON DEVELOPMENT              ACTIVE     │
-│ ● SOFTWARE ENGINEERING            ACTIVE     │
-│                                               │
-│ STATUS: BUILDING                              │
-│                                               │
-└───────────────────────────────────────────────┘
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+#### 1. Languages
+`Python` · `C++` · `Java` · `Kotlin` · `SQL`
+
+</td>
+<td width="25%" valign="top">
+
+#### 2. AI / ML
+`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `OpenCV` · `CNNs` · `Transfer Learning`
+
+</td>
+<td width="25%" valign="top">
+
+#### 3. LLMs / GenAI
+`LLM Evaluation` · `Prompt Engineering` · `RAG` · `LangChain` · `Similarity Matching`
+
+</td>
+<td width="25%" valign="top">
+
+#### 4. Data & Tools
+`Pandas` · `NumPy` · `Streamlit` · `MySQL` · `Git` · `GitHub` · `Linux` · `REST APIs`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,java,kotlin,mysql,postgres,git,github,vscode,linux,androidstudio,postman&perline=8" alt="Skill Icons" />
+  </a>
+</div>
+
+---
+
+### 📁 03 / SELECTED PROJECTS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [01 — Facial Emotion Detection](https://github.com/aryaanjalii203/Facial-Emotion-Detection)
+> CNN-based facial emotion recognition pipeline trained on FER-2013 with OpenCV real-time boundary tracking.
+
+`Python` `TensorFlow` `Keras` `OpenCV` `CNN`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [02 — Chatbot](https://github.com/aryaanjalii203/Chatbot)
+> An intent-based conversational agent designed to parse user queries, recognize context, and respond intelligently.
+
+`Python` `NLP` `NLTK` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ [03 — Image Classification](https://github.com/aryaanjalii203/Image_Classification)
+> Fashion MNIST image classification using Histogram of Oriented Gradients (HOG) feature extraction and SVM.
+
+`Python` `HOG` `SVM` `Scikit-learn` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [04 — AI Automation & RecSys](https://github.com/aryaanjalii203)
+> Full-stack Python automation pipelines with Streamlit, Google Drive sync, and collaborative recommendation systems.
+
+`Python` `Streamlit` `Scikit-Learn` `Google APIs`
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+  <a href="https://github.com/aryaanjalii203?tab=repositories"><b>View all projects →</b></a>
+</div>
+
+---
+
+### 💼 04 / EXPERIENCE & SIGNAL
+
+<table width="100%">
+<tr>
+<td width="68%" valign="top">
+
+#### 🎯 Handshake AI &mdash; AI / LLM Specialist *(Contract)*
+- Evaluating frontier LLM outputs against strict technical and reasoning rubrics.
+- Authoring reference solutions across algorithmic problems to improve training datasets and benchmark quality.
+- Identifying edge cases, reasoning failures, and hallucinations across complex multi-step coding prompts.
+
+</td>
+<td width="32%" valign="top">
+
+```yaml
+Status:     ● System Online
+Role:       AI / LLM Specialist
+Focus:      Reasoning & Code Eval
+Term:       Active
+Education:  B.Tech CSE (2022-2026)
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 📊 10 / GITHUB TELEMETRY
+### 🧠 05 / CURRENTLY EXPLORING
 
 <div align="center">
+  <code>Deep Learning</code> &nbsp;·&nbsp;
+  <code>Computer Vision</code> &nbsp;·&nbsp;
+  <code>LLMs &amp; GenAI</code> &nbsp;·&nbsp;
+  <code>Autonomous AI Agents</code> &nbsp;·&nbsp;
+  <code>Software Engineering</code> &nbsp;·&nbsp;
+  <code>Developer Tools</code>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&theme=radical&hide_border=true" />
+<br/>
 
-<br/><br/>
+> ⛰️ *"Don't just learn the technology. Build something with it."* &mdash; **Anjali Kumari**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryaanjalii203&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&theme=radical&hide_border=true" />
+### 📊 06 / TELEMETRY & ACTIVITY
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaanjalii203&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryaanjalii203&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaanjalii203&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-# 🌌 11 / BEYOND THE CODE
+### 📡 07 / SIGNAL & CONTACT
 
 ```text
-AI
-│
-├── Machine Learning
-│   ├── Classification
-│   ├── Recommendation
-│   └── Prediction
-│
-├── Deep Learning
-│   ├── CNNs
-│   ├── Transfer Learning
-│   └── Computer Vision
-│
-├── Generative AI
-│   ├── LLMs
-│   ├── Prompt Engineering
-│   ├── RAG
-│   └── Evaluation
-│
-└── Software Engineering
-    ├── Python
-    ├── APIs
-    ├── Automation
-    └── Data Pipelines
+┌──────────────────────────────────────────────────────────────────────────┐
+│ SIGNAL / CONTACT                                                         │
+│                                                                          │
+│ Open to AI / ML Engineer & Software Development Opportunities (2026)     │
+│                                                                          │
+│ Email: aryaanjali203@gmail.com                                           │
+│ LinkedIn: linkedin.com/in/anjalikumari203                                │
+│ LeetCode: leetcode.com/u/cFrtWpqEQT                                      │
+│ Instagram: @anuarya___                                                   │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-# 🧭 12 / NEXT CHAPTER
+<br/>
 
 <div align="center">
-
-### BUILDING SYSTEMS THAT THINK.
-
-### BUILDING SOFTWARE THAT MATTERS.
-
-<br/>
-
-**AI · MACHINE LEARNING · COMPUTER VISION · SOFTWARE ENGINEERING**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=E11D48&center=true&vCenter=true&width=700&lines=Exploring+intelligent+systems;Building+with+Python+%26+AI;Learning+through+real+projects;Turning+ideas+into+software;Always+building+the+next+thing..." />
-
+  <p><b>BUILD INTELLIGENTLY. SHIP INTENTIONALLY.</b></p>
+  <p><small>— ANJALI KUMARI</small></p>
 </div>
-
----
 
 <div align="center">
-
-### ◈ ANJALI KUMARI ◈
-
-**AI & MACHINE LEARNING ENGINEER · CREATIVE TECHNOLOGIST**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/anjalikumari203/">LinkedIn</a>
-  ·   <a href="https://leetcode.com/u/cFrtWpqEQT/">LeetCode</a>
-  ·   <a href="mailto:aryaanjali203@gmail.com">Email</a>
-  ·   <a href="https://www.instagram.com/anuarya___/">Instagram</a>
-
-<br/><br/>
-
-`Code → Build → Break → Improve → Ship`
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230f172a&custom_color_2=%23e11d48&height=80&section=footer" alt="Footer Wave" />
 </div>
-
